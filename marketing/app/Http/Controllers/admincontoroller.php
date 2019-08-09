@@ -25,7 +25,7 @@ class admincontoroller extends Controller
        $this->sparkpost = $sparkpost;
       //'64dc3fe87a67f491f0fcd28984c33ac965a2e407'
        $this->middleware('auth');
-     //  $this->sparkpost->api_token='64dc3fe87a67f491f0fcd28984c33ac965a2e407';
+     //  $this->sparkpost->api_token='';
        
       
 
